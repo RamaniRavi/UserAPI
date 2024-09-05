@@ -1,6 +1,6 @@
 {
   "profiles": {
-    "MyAPI": {
+    "UserAPI": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "swagger",
