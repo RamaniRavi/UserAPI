@@ -4,10 +4,10 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using MyAPI.Data;
-using MyAPI.Entities;
+using UserAPI.Data;
+using UserAPI.Entities;
 
-namespace MyAPI.Controllers
+namespace UserAPI.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]

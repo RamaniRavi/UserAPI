@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.EntityFrameworkCore;
-using MyAPI.Entities;
+using UserAPI.Entities;
 
-namespace MyAPI.Data
+namespace UserAPI.Data
 {
     public class DataContext : DbContext
     {
